@@ -1,2 +1,3 @@
 # Twitter-Sentiment-Analysis
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/EI3aFmja6js?controls=0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[![Twitter Sentiment Analysis](http://img.youtube.com/vi/EI3aFmja6js/0.jpg)](http://www.youtube.com/watch?v=EI3aFmja6js "Twitter Sentiment Analysis")
